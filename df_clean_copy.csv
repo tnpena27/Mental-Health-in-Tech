@@ -1,0 +1,1256 @@
+Age,Gender,Country,state,care_options,seek_help,coworkers,supervisor,mental_health_interview,gender_numeric,country_numeric,care_options_numeric,seek_help_numeric,coworkers_numeric,supervisor_numeric,mental_health_interview_numeric
+37,Female,United States,IL,Not sure,Yes,Some of them,Yes,No,2,1,2,1,2,1,0
+44,Male,United States,IN,No,Don't know,No,No,No,1,1,0,2,0,0,0
+32,Male,Other,,No,No,Yes,Yes,Yes,1,0,0,0,1,1,1
+31,Male,United Kingdom,,Yes,No,Some of them,No,Maybe,1,2,1,0,2,0,2
+31,Male,United States,TX,No,Don't know,Some of them,Yes,Yes,1,1,0,2,2,1,1
+33,Male,United States,TN,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+35,Female,United States,MI,No,No,Some of them,No,No,2,1,0,0,2,0,0
+39,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+42,Female,United States,IL,Yes,No,Yes,Yes,No,2,1,1,0,1,1,0
+23,Male,Other,,No,Don't know,Yes,Yes,Maybe,1,0,0,2,1,1,2
+31,Male,United States,OH,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+29,Male,Other,,Not sure,No,Yes,Yes,Yes,1,0,2,0,1,1,1
+42,Female,United States,CA,Yes,No,Yes,Yes,Maybe,2,1,1,0,1,1,2
+36,Male,United States,CT,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+27,Male,Other,,Not sure,Don't know,Some of them,Some of them,Maybe,1,0,2,2,2,2,2
+29,Female,United States,IL,Not sure,No,Yes,Some of them,Maybe,2,1,2,0,1,2,2
+23,Male,United Kingdom,,No,Don't know,Some of them,No,Maybe,1,2,0,2,2,0,2
+32,Male,United States,TN,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+46,Male,United States,MD,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+36,Male,Other,,No,No,Some of them,Some of them,Maybe,1,0,0,0,2,2,2
+29,Male,United States,NY,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+31,Male,United States,NC,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+46,Male,United States,MA,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+41,Male,United States,IA,No,Don't know,No,No,No,1,1,0,2,0,0,0
+33,Male,United States,CA,Not sure,Yes,Yes,Yes,No,1,1,2,1,1,1,0
+35,Male,United States,TN,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+33,Male,United States,TN,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+35,Female,United States,CA,Yes,Don't know,Yes,Yes,Maybe,2,1,1,2,1,1,2
+34,Male,United States,OH,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+37,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+32,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+31,Male,United States,PA,Yes,No,No,No,No,1,1,1,0,0,0,0
+30,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+42,Male,United States,WA,Yes,Yes,Some of them,Some of them,Maybe,1,1,1,1,2,2,2
+40,Female,United States,WI,Yes,No,Some of them,No,No,2,1,1,0,2,0,0
+27,Male,United States,NY,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+29,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+38,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+50,Male,United States,IN,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+35,Male,United States,TX,Yes,Yes,Yes,Yes,Maybe,1,1,1,1,1,1,2
+24,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+35,Male,United States,MI,Not sure,Yes,Some of them,No,No,1,1,2,1,2,0,0
+27,Male,Other,,Yes,No,Some of them,No,No,1,0,1,0,2,0,0
+18,Male,Other,,Not sure,No,No,Some of them,No,1,0,2,0,0,2,0
+30,Male,United States,IN,No,No,No,No,No,1,1,0,0,0,0,0
+38,Female,United States,TX,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+28,Male,United Kingdom,,Not sure,No,Some of them,Yes,Maybe,1,2,2,0,2,1,2
+34,Male,United States,TN,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+26,Male,Other,,Yes,No,Yes,Yes,No,1,0,1,0,1,1,0
+30,Male,United States,IL,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+22,Male,United States,TX,Yes,No,No,No,No,1,1,1,0,0,0,0
+33,Male,United States,UT,Not sure,Don't know,Some of them,Yes,Maybe,1,1,2,2,2,1,2
+31,Male,United States,DC,No,Don't know,Some of them,Some of them,Maybe,1,1,0,2,2,2,2
+32,Male,United States,TN,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+28,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+27,Male,United States,NY,Yes,No,No,No,No,1,1,1,0,0,0,0
+32,Male,United States,TN,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+24,Male,United States,NY,No,No,Some of them,Yes,Yes,1,1,0,0,2,1,1
+26,Male,United States,TN,No,No,Some of them,Yes,Maybe,1,1,0,0,2,1,2
+33,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+44,Male,United States,IA,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+26,Female,Other,,Not sure,Yes,Yes,Yes,Maybe,2,0,2,1,1,1,2
+27,Male,United Kingdom,,Not sure,Yes,Yes,Yes,Maybe,1,2,2,1,1,1,2
+26,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+35,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+40,Male,United States,CA,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+23,Female,Other,,Not sure,No,Some of them,Yes,No,2,0,2,0,2,1,0
+36,Male,United States,TX,No,Yes,Some of them,Some of them,Maybe,1,1,0,1,2,2,2
+31,Female,United States,NM,No,Don't know,Some of them,No,No,2,1,0,2,2,0,0
+34,Male,United States,NY,No,No,Some of them,No,No,1,1,0,0,2,0,0
+28,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+34,Male,Other,,Not sure,Don't know,Some of them,Yes,No,1,0,2,2,2,1,0
+23,Other,United States,MA,Yes,No,Yes,Yes,No,0,1,1,0,1,1,0
+38,Male,United Kingdom,,No,Don't know,Some of them,Yes,Maybe,1,2,0,2,2,1,2
+33,Male,United States,CA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+19,Male,United Kingdom,,Yes,No,No,No,No,1,2,1,0,0,0,0
+25,Male,United States,WA,Yes,Yes,Yes,Yes,Maybe,1,1,1,1,1,1,2
+31,Male,United States,WA,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+32,Male,United States,UT,No,No,Some of them,No,No,1,1,0,0,2,0,0
+28,Male,Other,,No,Don't know,Some of them,Some of them,Maybe,1,0,0,2,2,2,2
+38,Male,United States,NY,Yes,Yes,Yes,Some of them,Maybe,1,1,1,1,1,2,2
+23,Male,United Kingdom,,Not sure,Don't know,Some of them,Yes,Maybe,1,2,2,2,2,1,2
+30,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+27,Female,United States,NY,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+33,Male,United States,CA,No,No,No,No,No,1,1,0,0,0,0,0
+31,Male,United States,TX,Not sure,No,Some of them,Yes,Maybe,1,1,2,0,2,1,2
+39,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+34,Female,United States,OR,Not sure,Don't know,Some of them,Some of them,No,2,1,2,2,2,2,0
+29,Female,United States,FL,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+32,Male,United States,IL,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+31,Male,United States,NY,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+40,Male,United States,TX,Yes,No,Yes,Yes,Yes,1,1,1,0,1,1,1
+34,Male,United States,OH,No,No,Some of them,No,No,1,1,0,0,2,0,0
+18,Other,Other,,Yes,No,Yes,Yes,Yes,0,0,1,0,1,1,1
+25,Female,Other,,Yes,Don't know,Some of them,Yes,No,2,0,1,2,2,1,0
+29,Male,United States,MN,No,Don't know,Yes,Yes,Maybe,1,1,0,2,1,1,2
+24,Male,United States,MO,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+31,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+33,Male,United States,AZ,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+30,Male,United States,IN,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+26,Female,Other,,Yes,No,No,No,No,2,0,1,0,0,0,0
+44,Female,United States,MA,Not sure,Don't know,No,Some of them,No,2,1,2,2,0,2,0
+25,Male,United States,NY,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+33,Male,United States,WI,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+29,Male,United States,NY,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+35,Male,United States,MO,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+35,Male,United States,OR,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+28,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+34,Male,United States,TN,No,No,No,No,No,1,1,0,0,0,0,0
+32,Male,United States,WA,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+22,Male,United States,NY,Yes,Don't know,No,No,No,1,1,1,2,0,0,0
+28,Male,United States,CA,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+45,Male,United States,MO,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1,1,1
+32,Male,United States,NY,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+28,Male,United States,TX,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+26,Male,United Kingdom,,No,Don't know,Some of them,Some of them,No,1,2,0,2,2,2,0
+21,Male,United Kingdom,,Yes,No,Some of them,Yes,No,1,2,1,0,2,1,0
+27,Male,Other,,Yes,Yes,Some of them,Yes,No,1,0,1,1,2,1,0
+18,Male,United States,CT,No,No,Some of them,No,No,1,1,0,0,2,0,0
+35,Male,United States,CO,Not sure,Don't know,Some of them,Yes,Maybe,1,1,2,2,2,1,2
+29,Male,United States,GA,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+25,Male,United States,DC,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+33,Male,United States,MN,No,Don't know,Yes,Yes,No,1,1,0,2,1,1,0
+36,Male,United States,WA,No,No,No,No,No,1,1,0,0,0,0,0
+27,Male,Other,,Not sure,No,Some of them,Yes,No,1,0,2,0,2,1,0
+27,Male,United States,WA,No,Yes,Some of them,No,No,1,1,0,1,2,0,0
+27,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+32,Male,United States,OR,Yes,Yes,No,Yes,No,1,1,1,1,0,1,0
+31,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+19,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+33,Male,United States,IL,Yes,No,Yes,Some of them,No,1,1,1,0,1,2,0
+32,Male,United States,CA,Yes,No,Yes,Some of them,No,1,1,1,0,1,2,0
+27,Male,United States,NE,Not sure,Don't know,Yes,Yes,Maybe,1,1,2,2,1,1,2
+38,Male,Other,,Yes,No,Yes,Yes,Maybe,1,0,1,0,1,1,2
+24,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+39,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+28,Male,United Kingdom,,No,No,Some of them,Yes,Maybe,1,2,0,0,2,1,2
+39,Male,United States,IA,Not sure,No,Yes,Yes,No,1,1,2,0,1,1,0
+29,Female,United States,MD,No,Don't know,Some of them,No,No,2,1,0,2,2,0,0
+22,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+38,Male,United States,OR,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+37,Male,United Kingdom,,Yes,Yes,Some of them,No,No,1,2,1,1,2,0,0
+35,Male,United States,TX,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+-29,Male,United States,MN,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+30,Female,United States,PA,Not sure,Don't know,Some of them,Some of them,No,2,1,2,2,2,2,0
+37,Male,United States,IN,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+24,Male,United Kingdom,,No,No,No,Some of them,No,1,2,0,0,0,2,0
+23,Male,United States,WV,No,No,No,No,No,1,1,0,0,0,0,0
+30,Male,Other,,Yes,Yes,Some of them,No,No,1,0,1,1,2,0,0
+29,Female,United States,MI,Not sure,Don't know,No,Some of them,No,2,1,2,2,0,2,0
+19,Male,Other,,Not sure,Yes,Some of them,Some of them,Maybe,1,0,2,1,2,2,2
+32,Male,United States,CA,Not sure,No,Some of them,Some of them,No,1,1,2,0,2,2,0
+28,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+36,Male,United States,IL,Not sure,Don't know,Some of them,Some of them,Maybe,1,1,2,2,2,2,2
+37,Male,United Kingdom,,Yes,Yes,Some of them,No,No,1,2,1,1,2,0,0
+25,Male,United States,IL,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+27,Male,United States,CA,No,Don't know,No,Some of them,No,1,1,0,2,0,2,0
+26,Male,United States,OK,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+27,Male,United States,UT,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+25,Male,United States,IL,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+36,Male,United Kingdom,,Yes,Yes,Some of them,Some of them,No,1,2,1,1,2,2,0
+25,Female,United States,NY,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+31,Male,United States,CA,No,Yes,Some of them,Some of them,No,1,1,0,1,2,2,0
+26,Male,United States,MA,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+33,Female,United States,WA,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+27,Female,United Kingdom,,Yes,No,Yes,Yes,No,2,2,1,0,1,1,0
+34,Male,United States,MN,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+42,Male,United States,CA,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+23,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+24,Male,United Kingdom,,Not sure,Don't know,Some of them,Some of them,No,1,2,2,2,2,2,0
+26,Male,United Kingdom,,Yes,Don't know,Yes,Yes,No,1,2,1,2,1,1,0
+31,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+22,Male,Other,,Not sure,No,No,No,Maybe,1,0,2,0,0,0,2
+23,Female,United States,NC,No,Don't know,Some of them,Yes,No,2,1,0,2,2,1,0
+34,Female,Other,,Yes,No,Some of them,Yes,No,2,0,1,0,2,1,0
+31,Male,United States,MO,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+28,Male,United Kingdom,,Not sure,Yes,Some of them,Some of them,Maybe,1,2,2,1,2,2,2
+32,Female,United States,MA,Not sure,Don't know,Yes,Yes,No,2,1,2,2,1,1,0
+45,Female,United States,CA,No,No,Yes,Yes,No,2,1,0,0,1,1,0
+33,Male,United States,TX,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+29,Male,Other,,No,No,No,Yes,Maybe,1,0,0,0,0,1,2
+26,Female,Other,,No,No,Some of them,Some of them,No,2,0,0,0,2,2,0
+28,Female,United Kingdom,,No,Don't know,Yes,Yes,Maybe,2,2,0,2,1,1,2
+45,Male,United States,CA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+43,Male,United States,WA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+37,Male,United States,MA,No,No,Some of them,No,Maybe,1,1,0,0,2,0,2
+24,Male,United Kingdom,,No,Don't know,Some of them,Yes,Maybe,1,2,0,2,2,1,2
+26,Male,Other,,Yes,No,Some of them,No,No,1,0,1,0,2,0,0
+23,Male,United Kingdom,,No,No,Some of them,Yes,Maybe,1,2,0,0,2,1,2
+35,Female,United States,CA,Not sure,No,No,No,No,2,1,2,0,0,0,0
+38,Female,Other,,Yes,No,Some of them,Some of them,No,2,0,1,0,2,2,0
+28,Male,United States,MI,No,No,Some of them,No,No,1,1,0,0,2,0,0
+28,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+35,Male,United States,CA,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+32,Female,Other,,No,No,Some of them,No,No,2,0,0,0,2,0,0
+31,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+35,Female,United States,NY,Not sure,No,Some of them,No,No,2,1,2,0,2,0,0
+26,Male,United States,CA,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+27,Male,United States,TN,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+28,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+27,Female,United States,OR,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+34,Female,United States,MN,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+41,Male,United States,FL,Not sure,No,Some of them,Some of them,Maybe,1,1,2,0,2,2,2
+37,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+34,Male,Other,,No,Don't know,Yes,Yes,No,1,0,0,2,1,1,0
+32,Male,United Kingdom,,Not sure,No,No,No,No,1,2,2,0,0,0,0
+21,Male,Other,,Yes,No,Some of them,Some of them,Maybe,1,0,1,0,2,2,2
+30,Male,United States,MA,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+24,Male,United States,KS,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+26,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+40,Female,United States,DC,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+37,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+26,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+32,Female,United States,TX,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+32,Female,United States,MA,Yes,Don't know,Yes,Yes,No,2,1,1,2,1,1,0
+27,Female,United States,MI,No,Don't know,Some of them,No,No,2,1,0,2,2,0,0
+30,Male,Other,,Yes,No,Some of them,Yes,Maybe,1,0,1,0,2,1,2
+31,Male,Other,,Yes,Don't know,Some of them,Some of them,No,1,0,1,2,2,2,0
+29,Female,United States,NY,No,Don't know,Some of them,No,No,2,1,0,2,2,0,0
+41,Male,United States,VA,Not sure,No,No,Some of them,No,1,1,2,0,0,2,0
+34,Female,United States,WA,No,No,Yes,Yes,Maybe,2,1,0,0,1,1,2
+33,Male,United Kingdom,,No,No,Yes,Yes,Yes,1,2,0,0,1,1,1
+28,Male,United States,PA,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+28,Male,United States,MI,Yes,No,No,Some of them,No,1,1,1,0,0,2,0
+23,Male,United States,PA,Not sure,Don't know,No,Yes,No,1,1,2,2,0,1,0
+24,Male,United States,OR,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+32,Male,United States,WA,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+34,Male,Other,,Not sure,Yes,No,No,No,1,0,2,1,0,0,0
+24,Male,United States,PA,Not sure,Don't know,Some of them,No,Maybe,1,1,2,2,2,0,2
+26,Male,United Kingdom,,Yes,No,Some of them,Some of them,No,1,2,1,0,2,2,0
+36,Male,United States,OH,No,Yes,Some of them,Some of them,No,1,1,0,1,2,2,0
+41,Male,United States,TX,Yes,Don't know,Some of them,No,Maybe,1,1,1,2,2,0,2
+38,Male,United Kingdom,,Not sure,Don't know,No,No,No,1,2,2,2,0,0,0
+38,Male,United States,NH,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+30,Male,Other,,No,Don't know,Some of them,Some of them,No,1,0,0,2,2,2,0
+25,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+37,Male,Other,,Yes,Don't know,Some of them,Some of them,No,1,0,1,2,2,2,0
+34,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+37,Female,United States,NC,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+28,Female,Other,,Yes,Yes,Some of them,Yes,No,2,0,1,1,2,1,0
+22,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+34,Male,United States,FL,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+33,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+25,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+27,Male,United States,GA,Yes,Don't know,Some of them,Yes,Maybe,1,1,1,2,2,1,2
+40,Male,United States,OH,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+21,Male,United States,KY,No,Don't know,No,No,No,1,1,0,2,0,0,0
+29,Male,United Kingdom,,No,No,Yes,Yes,Maybe,1,2,0,0,1,1,2
+32,Male,United States,NC,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+29,Female,United States,NY,Yes,Don't know,Some of them,No,Maybe,2,1,1,2,2,0,2
+23,Male,United States,AL,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+28,Male,United States,GA,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+31,Male,United States,CA,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+27,Male,United Kingdom,,Not sure,Don't know,Yes,Yes,No,1,2,2,2,1,1,0
+24,Male,United States,VA,No,Don't know,Yes,Yes,Maybe,1,1,0,2,1,1,2
+29,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+23,Female,United Kingdom,,Not sure,Don't know,Some of them,Some of them,No,2,2,2,2,2,2,0
+42,Male,United States,WA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+24,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+25,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+27,Female,United States,TX,No,No,Yes,No,No,2,1,0,0,1,0,0
+27,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+30,Male,United States,FL,Yes,Yes,Yes,Yes,Maybe,1,1,1,1,1,1,2
+29,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+43,Male,Other,,Not sure,No,Yes,Yes,Yes,1,0,2,0,1,1,1
+32,Male,United States,NV,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+41,Male,United States,AL,Yes,No,Yes,Yes,Yes,1,1,1,0,1,1,1
+32,Male,United Kingdom,,Not sure,Don't know,Yes,Some of them,Maybe,1,2,2,2,1,2,2
+37,Female,United States,CA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+32,Male,United States,CO,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+30,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+23,Female,United States,MN,No,Don't know,Some of them,Yes,Maybe,2,1,0,2,2,1,2
+30,Male,United States,NJ,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+34,Male,United Kingdom,,Yes,No,Yes,Some of them,No,1,2,1,0,1,2,0
+38,Male,United States,PA,No,No,No,No,No,1,1,0,0,0,0,0
+33,Male,Other,,No,Yes,Some of them,Yes,No,1,0,0,1,2,1,0
+34,Male,United States,MO,No,No,Some of them,No,No,1,1,0,0,2,0,0
+28,Male,Other,,Yes,No,No,Some of them,No,1,0,1,0,0,2,0
+28,Male,United States,MN,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+23,Male,United States,PA,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+22,Male,Other,,Not sure,Yes,Some of them,Yes,No,1,0,2,1,2,1,0
+27,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+18,Male,United States,TX,No,Don't know,No,No,No,1,1,0,2,0,0,0
+35,Male,United States,NY,Yes,No,No,Some of them,No,1,1,1,0,0,2,0
+25,Male,Other,,Not sure,No,Some of them,Some of them,No,1,0,2,0,2,2,0
+27,Male,United Kingdom,,No,No,Yes,Yes,Yes,1,2,0,0,1,1,1
+26,Female,United States,WA,Not sure,Don't know,Some of them,Some of them,No,2,1,2,2,2,2,0
+18,Male,United States,WA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+38,Female,United States,TX,Yes,No,Some of them,No,No,2,1,1,0,2,0,0
+26,Female,United States,TX,Yes,Don't know,Some of them,No,No,2,1,1,2,2,0,0
+30,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+35,Male,United States,CA,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+45,Male,United States,NY,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+32,Male,United States,CA,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+56,Male,United States,DC,Not sure,Don't know,Yes,Some of them,No,1,1,2,2,1,2,0
+24,Female,United States,CA,Not sure,Don't know,Some of them,No,No,2,1,2,2,2,0,0
+30,Female,United States,SC,Yes,Don't know,Yes,Yes,No,2,1,1,2,1,1,0
+60,Male,United States,CA,No,Yes,Some of them,Yes,Maybe,1,1,0,1,2,1,2
+33,Male,United States,CA,No,Yes,No,No,No,1,1,0,1,0,0,0
+37,Male,United States,NY,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+23,Female,United States,NY,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+31,Female,United States,CA,Not sure,Don't know,Yes,Yes,No,2,1,2,2,1,1,0
+26,Male,United States,MA,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+28,Female,United States,WA,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+37,Female,United States,CA,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+26,Male,Other,,No,Don't know,Some of them,Some of them,Maybe,1,0,0,2,2,2,2
+30,Other,United States,IL,Not sure,No,Some of them,Yes,No,0,1,2,0,2,1,0
+26,Male,United States,IN,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+25,Male,United States,OR,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+27,Male,United States,TN,Not sure,Yes,Some of them,Yes,No,1,1,2,1,2,1,0
+25,Male,Other,,No,Don't know,No,No,No,1,0,0,2,0,0,0
+35,Male,United States,OR,Not sure,Yes,Some of them,Yes,No,1,1,2,1,2,1,0
+36,Male,United States,WA,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+26,Male,United States,CA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+27,Male,United States,CA,No,Don't know,Yes,Yes,Maybe,1,1,0,2,1,1,2
+30,Male,United States,VT,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+29,Male,United States,NY,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+25,Male,United States,UT,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+22,Female,United States,NY,Yes,Yes,No,Some of them,No,2,1,1,1,0,2,0
+41,Male,United States,SD,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+29,Male,United States,CA,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+32,Male,United States,OR,Not sure,Yes,Some of them,Yes,Maybe,1,1,2,1,2,1,2
+24,Female,United States,CA,Yes,Yes,Some of them,No,No,2,1,1,1,2,0,0
+25,Male,United States,CA,No,No,No,No,No,1,1,0,0,0,0,0
+25,Male,United States,CA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+30,Female,United States,CO,Yes,Yes,No,Some of them,No,2,1,1,1,0,2,0
+25,Male,United States,CA,Not sure,Yes,Yes,Yes,No,1,1,2,1,1,1,0
+30,Male,United States,OH,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+33,Male,Other,,No,No,No,No,Maybe,1,0,0,0,0,0,2
+24,Male,United States,WA,Not sure,Yes,Some of them,Some of them,No,1,1,2,1,2,2,0
+25,Male,Other,,Yes,Don't know,Some of them,No,No,1,0,1,2,2,0,0
+31,Male,United States,OH,No,No,No,No,No,1,1,0,0,0,0,0
+45,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+29,Male,Other,,Yes,No,Some of them,Some of them,Maybe,1,0,1,0,2,2,2
+46,Male,United States,WA,Not sure,Don't know,Some of them,Some of them,Maybe,1,1,2,2,2,2,2
+30,Male,United Kingdom,,No,Don't know,No,No,No,1,2,0,2,0,0,0
+29,Female,United States,CA,Not sure,No,Some of them,Some of them,No,2,1,2,0,2,2,0
+24,Male,United States,MA,Yes,Don't know,No,No,No,1,1,1,2,0,0,0
+29,Male,United States,WA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+35,Male,United States,MI,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+33,Female,United States,WA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+27,Male,United States,CA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+36,Male,United States,IA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+33,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+25,Female,United States,WA,Yes,No,Some of them,Yes,No,2,1,1,0,2,1,0
+23,Male,United States,AL,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+54,Male,United States,CA,No,Yes,No,Yes,No,1,1,0,1,0,1,0
+22,Male,United States,CA,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+25,Other,United States,CA,Yes,Don't know,Some of them,Some of them,No,0,1,1,2,2,2,0
+29,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+27,Male,United States,MA,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+30,Male,United Kingdom,,No,Don't know,Some of them,Yes,No,1,2,0,2,2,1,0
+26,Male,United States,CA,Not sure,Yes,Some of them,No,No,1,1,2,1,2,0,0
+25,Female,Other,,Yes,No,Some of them,Yes,No,2,0,1,0,2,1,0
+31,Male,United States,CA,Yes,Don't know,Some of them,No,No,1,1,1,2,2,0,0
+33,Male,United States,IN,Not sure,No,Some of them,Some of them,No,1,1,2,0,2,2,0
+34,Male,United States,WA,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+34,Male,United States,WA,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+29,Male,United States,IN,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+33,Female,United States,WA,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+34,Male,Other,,No,Don't know,Yes,Yes,No,1,0,0,2,1,1,0
+26,Male,United States,OK,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+32,Male,United States,MI,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+329,Male,United States,OH,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+28,Male,United States,GA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+35,Male,United States,CA,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+36,Male,United States,DC,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+21,Male,United States,IN,No,Don't know,Yes,Yes,Maybe,1,1,0,2,1,1,2
+21,Male,United Kingdom,,Not sure,No,Some of them,No,No,1,2,2,0,2,0,0
+22,Female,United States,WA,No,Yes,No,Some of them,No,2,1,0,1,0,2,0
+41,Male,United States,WA,No,Yes,Yes,Some of them,No,1,1,0,1,1,2,0
+55,Male,United States,PA,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+32,Female,United States,WA,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+21,Female,United States,CA,Not sure,No,Some of them,No,No,2,1,2,0,2,0,0
+45,Male,United States,MA,Yes,Don't know,No,Some of them,No,1,1,1,2,0,2,0
+27,Female,United States,WA,Yes,No,No,No,No,2,1,1,0,0,0,0
+25,Female,United States,WA,No,No,Some of them,Yes,No,2,1,0,0,2,1,0
+34,Female,United States,NY,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+26,Female,United States,CA,Yes,Yes,No,No,No,2,1,1,1,0,0,0
+41,Male,Other,,Not sure,Don't know,Some of them,Some of them,No,1,0,2,2,2,2,0
+27,Male,United States,CA,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+31,Male,United States,IN,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+25,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+26,Male,United States,NV,No,No,Some of them,No,No,1,1,0,0,2,0,0
+27,Female,United States,CO,Yes,Don't know,No,Yes,No,2,1,1,2,0,1,0
+42,Male,Other,,Not sure,No,Some of them,Yes,Maybe,1,0,2,0,2,1,2
+29,Other,United States,CA,Yes,No,Some of them,No,No,0,1,1,0,2,0,0
+25,Female,United States,CA,Not sure,No,Some of them,No,No,2,1,2,0,2,0,0
+33,Female,Other,,Yes,Yes,Some of them,No,No,2,0,1,1,2,0,0
+99999999999,Other,Other,,Yes,No,No,No,Yes,0,0,1,0,0,0,1
+40,Female,United States,PA,No,Don't know,No,No,No,2,1,0,2,0,0,0
+31,Male,United States,SC,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+26,Male,Other,,No,Don't know,Yes,Yes,No,1,0,0,2,1,1,0
+24,Female,United States,TX,No,No,No,No,No,2,1,0,0,0,0,0
+29,Male,United States,TX,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+48,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+35,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+32,Female,United States,AL,Not sure,No,No,Some of them,No,2,1,2,0,0,2,0
+29,Male,Other,,Not sure,Don't know,Some of them,Some of them,No,1,0,2,2,2,2,0
+26,Male,United States,OR,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+28,Male,United States,NJ,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+23,Male,United States,CA,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+35,Male,United States,CA,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+29,Male,Other,,No,No,Some of them,Some of them,Maybe,1,0,0,0,2,2,2
+26,Male,United States,CA,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+33,Male,United States,NH,Yes,Yes,Yes,Some of them,No,1,1,1,1,1,2,0
+33,Male,United States,CA,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+22,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+30,Female,Other,,No,No,No,No,No,2,0,0,0,0,0,0
+33,Male,United States,OH,Yes,No,No,No,No,1,1,1,0,0,0,0
+31,Female,United States,OH,Not sure,Don't know,No,No,No,2,1,2,2,0,0,0
+21,Male,United States,MA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+31,Other,United Kingdom,,No,No,No,No,No,0,2,0,0,0,0,0
+26,Female,United States,OK,Not sure,Don't know,Some of them,Some of them,No,2,1,2,2,2,2,0
+30,Male,United States,CA,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+30,Other,Other,,Not sure,No,Yes,Yes,Maybe,0,0,2,0,1,1,2
+23,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+34,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+55,Male,United States,ID,Yes,Don't know,No,No,No,1,1,1,2,0,0,0
+28,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+26,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+28,Male,Other,,Yes,No,Yes,Yes,Yes,1,0,1,0,1,1,1
+32,Male,United Kingdom,,No,Don't know,Some of them,Yes,No,1,2,0,2,2,1,0
+28,Female,United States,NY,Yes,Don't know,No,No,No,2,1,1,2,0,0,0
+21,Male,United States,CA,Not sure,Yes,Some of them,Some of them,Maybe,1,1,2,1,2,2,2
+24,Male,United States,TX,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+26,Female,United States,MD,Not sure,Don't know,Some of them,No,No,2,1,2,2,2,0,0
+23,Male,United States,IN,No,No,Yes,No,No,1,1,0,0,1,0,0
+24,Female,United States,OR,Yes,Yes,Some of them,Some of them,Yes,2,1,1,1,2,2,1
+28,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+24,Female,United States,NY,No,No,No,Some of them,No,2,1,0,0,0,2,0
+33,Male,United States,MS,No,No,Some of them,Some of them,Yes,1,1,0,0,2,2,1
+34,Male,United States,NJ,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+27,Female,United States,CA,Not sure,No,Some of them,Some of them,No,2,1,2,0,2,2,0
+28,Male,United States,TN,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+26,Male,United States,WA,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+20,Male,Other,,Not sure,Don't know,Some of them,Yes,No,1,0,2,2,2,1,0
+23,Female,United States,MA,Yes,Don't know,Some of them,No,No,2,1,1,2,2,0,0
+29,Male,United States,PA,Yes,Yes,Yes,Yes,Maybe,1,1,1,1,1,1,2
+26,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+36,Male,United States,KY,No,Don't know,No,No,No,1,1,0,2,0,0,0
+41,Male,United States,PA,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+33,Female,United States,MA,No,No,Some of them,Yes,No,2,1,0,0,2,1,0
+23,Male,Other,,Yes,No,Yes,Yes,No,1,0,1,0,1,1,0
+39,Male,United States,CA,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+34,Male,United States,VT,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+26,Female,United States,CA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+24,Male,United States,AZ,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+37,Male,Other,,Yes,Yes,Some of them,Some of them,No,1,0,1,1,2,2,0
+43,Male,United States,MA,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+40,Other,United States,VA,Yes,Don't know,No,Some of them,No,0,1,1,2,0,2,0
+30,Male,United States,WA,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+34,Male,United States,CA,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+27,Male,United States,OR,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+36,Male,United States,MI,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+27,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+35,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+32,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+37,Male,United States,OR,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+29,Male,United Kingdom,,No,Don't know,Some of them,Yes,Maybe,1,2,0,2,2,1,2
+33,Female,United States,CA,Not sure,Yes,Some of them,Yes,No,2,1,2,1,2,1,0
+28,Male,United States,UT,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+26,Female,United States,CA,Not sure,No,Some of them,No,No,2,1,2,0,2,0,0
+27,Male,United States,TX,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+38,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+57,Male,United States,CA,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+28,Male,United Kingdom,,No,No,No,Some of them,No,1,2,0,0,0,2,0
+26,Male,Other,,Yes,No,Yes,Yes,Maybe,1,0,1,0,1,1,2
+42,Female,Other,,Yes,No,Some of them,No,No,2,0,1,0,2,0,0
+31,Male,United States,OR,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+58,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+29,Male,United States,OH,No,No,No,No,No,1,1,0,0,0,0,0
+39,Female,United Kingdom,,Yes,Yes,Some of them,Some of them,No,2,2,1,1,2,2,0
+34,Male,United States,OH,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+57,Male,United States,CA,Not sure,Yes,No,No,No,1,1,2,1,0,0,0
+27,Male,Other,,Not sure,No,Some of them,No,No,1,0,2,0,2,0,0
+23,Male,Other,,No,Don't know,Yes,Yes,Maybe,1,0,0,2,1,1,2
+18,Male,Other,,No,Don't know,No,No,No,1,0,0,2,0,0,0
+30,Female,United States,NY,Not sure,No,Some of them,Yes,No,2,1,2,0,2,1,0
+23,Male,United States,VA,Not sure,Don't know,Yes,Yes,Maybe,1,1,2,2,1,1,2
+43,Male,United States,CA,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+18,Female,United Kingdom,,Not sure,Don't know,Some of them,Some of them,Maybe,2,2,2,2,2,2,2
+29,Male,United States,IL,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+48,Male,United States,TX,No,Don't know,No,No,No,1,1,0,2,0,0,0
+43,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+28,Female,United States,NY,Not sure,No,Some of them,No,No,2,1,2,0,2,0,0
+30,Male,United States,CA,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+33,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+31,Male,United States,CA,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+30,Male,United States,PA,Not sure,No,Some of them,Some of them,No,1,1,2,0,2,2,0
+27,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+24,Female,United States,CA,No,Don't know,Some of them,Some of them,No,2,1,0,2,2,2,0
+25,Male,United States,WA,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+23,Female,United States,NY,Not sure,No,Some of them,Some of them,No,2,1,2,0,2,2,0
+36,Male,United States,TX,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+25,Female,United States,CA,Not sure,No,Some of them,No,No,2,1,2,0,2,0,0
+54,Male,United Kingdom,,Yes,Yes,Yes,Yes,Maybe,1,2,1,1,1,1,2
+34,Male,Other,,Not sure,Don't know,Some of them,Some of them,No,1,0,2,2,2,2,0
+38,Female,United States,AZ,Yes,No,No,No,No,2,1,1,0,0,0,0
+40,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+32,Male,United Kingdom,,Not sure,Don't know,No,Some of them,No,1,2,2,2,0,2,0
+25,Male,Other,,Not sure,Yes,Yes,Yes,No,1,0,2,1,1,1,0
+35,Female,United States,OH,Yes,No,No,No,No,2,1,1,0,0,0,0
+46,Male,United States,CA,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+42,Male,United States,KS,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+32,Male,United Kingdom,,No,No,Yes,Yes,Maybe,1,2,0,0,1,1,2
+47,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+22,Male,United States,CA,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+33,Female,United States,NY,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+25,Female,United States,WA,No,No,Some of them,No,No,2,1,0,0,2,0,0
+29,Male,United States,CA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+39,Male,United States,WA,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+38,Male,United States,VA,Not sure,Yes,No,No,No,1,1,2,1,0,0,0
+43,Male,United States,NC,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+46,Male,United States,OH,Not sure,Yes,Some of them,Yes,No,1,1,2,1,2,1,0
+38,Female,United States,PA,Yes,Yes,Yes,Yes,No,2,1,1,1,1,1,0
+33,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+34,Male,United Kingdom,,Yes,No,Yes,Yes,No,1,2,1,0,1,1,0
+62,Male,United States,CA,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+23,Female,United States,TX,Not sure,Don't know,Some of them,Some of them,No,2,1,2,2,2,2,0
+35,Male,United States,AZ,No,No,No,No,No,1,1,0,0,0,0,0
+25,Male,Other,,Not sure,Don't know,No,No,No,1,0,2,2,0,0,0
+36,Male,United States,IL,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+41,Female,United States,DC,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+24,Male,Other,,Yes,Don't know,Some of them,Some of them,Maybe,1,0,1,2,2,2,2
+51,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+29,Male,United States,NC,Yes,Yes,No,Some of them,No,1,1,1,1,0,2,0
+31,Female,Other,,Not sure,Don't know,Some of them,Yes,No,2,0,2,2,2,1,0
+27,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+31,Male,Other,,Yes,Yes,Yes,Yes,Yes,1,0,1,1,1,1,1
+27,Female,Other,,No,No,No,No,No,2,0,0,0,0,0,0
+23,Male,Other,,No,Don't know,Some of them,Yes,Maybe,1,0,0,2,2,1,2
+21,Male,Other,,Not sure,No,No,No,No,1,0,2,0,0,0,0
+27,Female,Other,,Yes,No,Some of them,Some of them,No,2,0,1,0,2,2,0
+39,Male,United States,WI,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+26,Male,United States,CA,No,Don't know,No,No,No,1,1,0,2,0,0,0
+27,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+22,Female,United States,CA,Yes,Don't know,Some of them,Some of them,No,2,1,1,2,2,2,0
+26,Female,United States,MN,No,No,No,No,No,2,1,0,0,0,0,0
+31,Female,United States,PA,Yes,No,Yes,Yes,No,2,1,1,0,1,1,0
+32,Male,United Kingdom,,No,No,Yes,Yes,Yes,1,2,0,0,1,1,1
+28,Female,United States,CA,No,Don't know,Some of them,Some of them,No,2,1,0,2,2,2,0
+28,Other,United Kingdom,,Not sure,No,Some of them,Some of them,Yes,0,2,2,0,2,2,1
+23,Female,United Kingdom,,Not sure,No,No,Some of them,No,2,2,2,0,0,2,0
+30,Male,United Kingdom,,Not sure,Don't know,Yes,Yes,Maybe,1,2,2,2,1,1,2
+36,Male,United States,CA,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+21,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+30,Male,Other,,No,No,Some of them,Some of them,Maybe,1,0,0,0,2,2,2
+25,Female,United States,CA,Not sure,No,Some of them,Some of them,No,2,1,2,0,2,2,0
+32,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+29,Female,Other,,No,No,Some of them,Some of them,No,2,0,0,0,2,2,0
+21,Other,United Kingdom,,Yes,No,Some of them,Some of them,No,0,2,1,0,2,2,0
+27,Female,Other,,No,No,Some of them,Some of them,No,2,0,0,0,2,2,0
+32,Female,Other,,Not sure,Don't know,Some of them,Some of them,No,2,0,2,2,2,2,0
+34,Male,Other,,Yes,Yes,Some of them,Yes,No,1,0,1,1,2,1,0
+33,Male,United States,NY,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+22,Male,Other,,Not sure,Don't know,Some of them,Yes,Maybe,1,0,2,2,2,1,2
+24,Male,United States,CA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+65,Male,United States,FL,No,No,Some of them,No,No,1,1,0,0,2,0,0
+27,Male,United States,OR,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+33,Male,Other,,Not sure,Don't know,Some of them,Yes,Maybe,1,0,2,2,2,1,2
+36,Male,United States,CO,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+40,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+28,Male,United States,GA,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+39,Male,United States,OR,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+32,Male,United States,CA,No,Yes,Yes,Some of them,Maybe,1,1,0,1,1,2,2
+31,Male,United States,CA,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+38,Male,United States,PA,No,No,Some of them,No,No,1,1,0,0,2,0,0
+23,Male,United States,CA,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+42,Male,United States,CA,Yes,Yes,Yes,Yes,Maybe,1,1,1,1,1,1,2
+27,Female,United States,NY,Not sure,Yes,Some of them,Yes,No,2,1,2,1,2,1,0
+26,Female,United States,MA,Yes,No,Yes,Yes,No,2,1,1,0,1,1,0
+50,Male,United States,DC,Yes,No,No,No,No,1,1,1,0,0,0,0
+37,Male,United States,PA,No,Don't know,Yes,Yes,No,1,1,0,2,1,1,0
+23,Male,United States,RI,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+33,Male,United States,MI,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+29,Male,Other,,Yes,No,Some of them,No,No,1,0,1,0,2,0,0
+34,Male,United States,IL,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+41,Male,United States,CA,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+50,Male,United States,OR,No,Don't know,Some of them,Yes,Maybe,1,1,0,2,2,1,2
+29,Male,Other,,Not sure,Yes,Some of them,No,No,1,0,2,1,2,0,0
+35,Male,United States,IN,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+27,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+40,Female,United States,MA,Not sure,No,Yes,Yes,Maybe,2,1,2,0,1,1,2
+27,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+29,Female,United States,MI,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+31,Male,United States,OH,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+43,Male,United States,OH,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+34,Male,United States,NH,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+29,Male,United States,OH,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+19,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+41,Male,United States,TN,Not sure,Yes,Some of them,Some of them,No,1,1,2,1,2,2,0
+29,Male,United States,OR,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+23,Male,United States,PA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+24,Female,United States,DC,Not sure,No,No,No,No,2,1,2,0,0,0,0
+31,Male,United States,NY,No,Don't know,No,No,No,1,1,0,2,0,0,0
+43,Male,United States,WA,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+31,Male,United States,NY,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+29,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+35,Male,United States,TN,No,Yes,Yes,Yes,No,1,1,0,1,1,1,0
+33,Male,United States,WI,Not sure,No,No,No,No,1,1,2,0,0,0,0
+30,Female,United States,WI,Yes,Yes,Yes,Yes,No,2,1,1,1,1,1,0
+27,Male,United States,PA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+32,Male,United States,MI,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+50,Male,United States,WY,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+24,Male,United States,KY,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+27,Male,United States,NY,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+27,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+32,Male,United States,TX,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+42,Male,United States,WI,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+37,Male,United States,WA,No,No,Some of them,No,No,1,1,0,0,2,0,0
+30,Male,Other,,Not sure,No,Some of them,No,No,1,0,2,0,2,0,0
+29,Male,United States,WA,No,No,Some of them,No,No,1,1,0,0,2,0,0
+30,Male,United States,GA,Not sure,Yes,Yes,Yes,No,1,1,2,1,1,1,0
+35,Male,United States,MI,No,Don't know,Some of them,Some of them,Maybe,1,1,0,2,2,2,2
+35,Male,United States,MD,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+38,Male,Other,,Not sure,Don't know,Some of them,Some of them,Maybe,1,0,2,2,2,2,2
+22,Male,United Kingdom,,Yes,No,Some of them,Yes,Maybe,1,2,1,0,2,1,2
+24,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+22,Male,Other,,Not sure,No,Some of them,Yes,Maybe,1,0,2,0,2,1,2
+31,Female,United States,WA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+23,Female,United States,CA,Yes,Yes,No,No,No,2,1,1,1,0,0,0
+31,Female,United States,OR,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+28,Female,United States,CA,Yes,Yes,No,Some of them,No,2,1,1,1,0,2,0
+37,Other,Other,,Yes,No,Some of them,Some of them,No,0,0,1,0,2,2,0
+34,Male,United States,CA,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+32,Other,Other,,Yes,No,Some of them,No,No,0,0,1,0,2,0,0
+28,Male,United States,MI,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+24,Female,United Kingdom,,No,No,No,Some of them,No,2,2,0,0,0,2,0
+56,Male,United States,MA,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+31,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+34,Female,United States,CA,Yes,Don't know,Some of them,Yes,No,2,1,1,2,2,1,0
+35,Male,Other,,No,Don't know,Some of them,Yes,No,1,0,0,2,2,1,0
+28,Male,Other,,No,No,Some of them,Some of them,Yes,1,0,0,0,2,2,1
+36,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+30,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+35,Male,United States,DC,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+49,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+36,Male,Other,,Yes,No,Some of them,Yes,Maybe,1,0,1,0,2,1,2
+35,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+29,Female,Other,,Yes,Yes,Some of them,Some of them,No,2,0,1,1,2,2,0
+57,Male,United States,CA,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+31,Female,Other,,No,No,Some of them,No,No,2,0,0,0,2,0,0
+37,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+25,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+30,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+26,Female,Other,,Yes,Yes,Yes,Yes,No,2,0,1,1,1,1,0
+22,Female,Other,,No,No,No,Some of them,No,2,0,0,0,0,2,0
+39,Male,United States,FL,No,Yes,Some of them,Some of them,No,1,1,0,1,2,2,0
+29,Male,United Kingdom,,Not sure,Don't know,No,No,No,1,2,2,2,0,0,0
+54,Male,United Kingdom,,Not sure,No,Some of them,Yes,Yes,1,2,2,0,2,1,1
+34,Female,Other,,No,Yes,No,No,No,2,0,0,1,0,0,0
+32,Male,United States,WA,Not sure,Yes,No,No,No,1,1,2,1,0,0,0
+25,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+29,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+32,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+30,Male,United Kingdom,,Yes,Don't know,Some of them,Yes,No,1,2,1,2,2,1,0
+31,Male,Other,,No,Don't know,Some of them,Yes,Maybe,1,0,0,2,2,1,2
+20,Female,Other,,Yes,Yes,Some of them,Some of them,No,2,0,1,1,2,2,0
+27,Male,United Kingdom,,No,Don't know,Some of them,Yes,Maybe,1,2,0,2,2,1,2
+32,Male,United States,CA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+26,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+30,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+30,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+22,Male,Other,,No,Don't know,Some of them,Some of them,Maybe,1,0,0,2,2,2,2
+24,Male,Other,,Not sure,Don't know,No,No,No,1,0,2,2,0,0,0
+26,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+43,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+26,Male,Other,,Not sure,Don't know,Some of them,No,No,1,0,2,2,2,0,0
+23,Male,United States,NC,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+26,Male,Other,,Not sure,Yes,Some of them,Some of them,No,1,0,2,1,2,2,0
+26,Female,Other,,No,Don't know,Some of them,No,No,2,0,0,2,2,0,0
+35,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+28,Male,United States,IL,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+22,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+29,Female,United States,OH,No,No,No,No,No,2,1,0,0,0,0,0
+29,Male,Other,,Yes,No,Yes,Yes,Yes,1,0,1,0,1,1,1
+45,Male,United States,VA,Not sure,Yes,Yes,Yes,No,1,1,2,1,1,1,0
+33,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+38,Male,United States,MN,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+19,Other,United States,MO,Not sure,No,No,No,No,0,1,2,0,0,0,0
+29,Female,Other,,Yes,Don't know,No,Yes,No,2,0,1,2,0,1,0
+21,Female,United Kingdom,,No,No,Some of them,No,No,2,2,0,0,2,0,0
+23,Female,Other,,Not sure,Don't know,No,No,No,2,0,2,2,0,0,0
+33,Female,United States,NC,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+49,Male,United States,NY,Not sure,Yes,Some of them,Yes,No,1,1,2,1,2,1,0
+28,Male,United States,NM,No,No,Some of them,No,No,1,1,0,0,2,0,0
+27,Female,United Kingdom,,Not sure,Don't know,Yes,Yes,Maybe,2,2,2,2,1,1,2
+23,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+29,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+30,Male,Other,,No,Don't know,Some of them,No,Maybe,1,0,0,2,2,0,2
+28,Female,Other,,Not sure,Don't know,Some of them,Yes,No,2,0,2,2,2,1,0
+32,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+32,Male,United Kingdom,,Yes,No,No,Yes,No,1,2,1,0,0,1,0
+37,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+39,Female,United States,TX,Yes,No,No,No,No,2,1,1,0,0,0,0
+31,Male,Other,,No,Don't know,Some of them,No,No,1,0,0,2,2,0,0
+29,Male,United States,SC,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+30,Male,United States,FL,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+33,Male,United States,WA,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+37,Male,United States,CA,Yes,Don't know,Yes,Yes,No,1,1,1,2,1,1,0
+23,Male,United States,OH,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+43,Male,United States,TN,Not sure,Yes,No,No,No,1,1,2,1,0,0,0
+32,Male,United Kingdom,,No,No,Yes,Yes,No,1,2,0,0,1,1,0
+26,Male,United States,NY,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+32,Male,United States,NY,Not sure,Don't know,Yes,Yes,Yes,1,1,2,2,1,1,1
+37,Female,United States,MO,Not sure,Don't know,Some of them,No,No,2,1,2,2,2,0,0
+29,Male,United States,NY,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+34,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+27,Male,Other,,Not sure,Don't know,Yes,Yes,No,1,0,2,2,1,1,0
+30,Male,United States,TN,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+29,Male,United States,CO,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+32,Male,United States,PA,Yes,Don't know,Some of them,No,No,1,1,1,2,2,0,0
+-1726,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+25,Male,Other,,Yes,Yes,Some of them,Yes,Yes,1,0,1,1,2,1,1
+37,Male,United States,NY,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+29,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+27,Male,United States,MN,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+33,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+30,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+29,Male,Other,,Yes,No,Yes,Yes,No,1,0,1,0,1,1,0
+25,Male,United States,MO,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+33,Male,United States,WY,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+31,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+21,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+30,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+29,Male,United States,MN,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+43,Male,Other,,No,No,Yes,No,No,1,0,0,0,1,0,0
+37,Male,United Kingdom,,No,No,Yes,Yes,Maybe,1,2,0,0,1,1,2
+24,Male,Other,,No,No,Yes,Some of them,No,1,0,0,0,1,2,0
+29,Male,United States,MD,Not sure,No,Yes,Yes,No,1,1,2,0,1,1,0
+31,Male,United States,KY,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+5,Male,United States,OH,Not sure,No,Yes,Yes,No,1,1,2,0,1,1,0
+33,Male,United Kingdom,,Not sure,No,Yes,Some of them,No,1,2,2,0,1,2,0
+43,Male,United States,NY,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+33,Male,United Kingdom,,Not sure,No,Some of them,No,No,1,2,2,0,2,0,0
+27,Male,United Kingdom,,No,Yes,Yes,Some of them,No,1,2,0,1,1,2,0
+36,Male,United States,TN,No,Don't know,No,No,No,1,1,0,2,0,0,0
+37,Male,Other,,Yes,No,Some of them,Yes,No,1,0,1,0,2,1,0
+32,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+39,Male,United Kingdom,,No,No,No,Some of them,No,1,2,0,0,0,2,0
+31,Male,United States,TX,Yes,Don't know,Some of them,Yes,Maybe,1,1,1,2,2,1,2
+36,Male,United States,OH,Yes,No,Some of them,Some of them,Maybe,1,1,1,0,2,2,2
+30,Male,United States,TX,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+28,Male,Other,,Not sure,Don't know,Some of them,Yes,Maybe,1,0,2,2,2,1,2
+32,Male,Other,,No,No,Some of them,No,Maybe,1,0,0,0,2,0,2
+35,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+19,Male,Other,,Not sure,No,Some of them,Yes,No,1,0,2,0,2,1,0
+33,Male,Other,,Yes,No,Some of them,Yes,No,1,0,1,0,2,1,0
+42,Male,Other,,Not sure,Yes,Some of them,No,No,1,0,2,1,2,0,0
+37,Male,United States,MI,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+40,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+36,Male,United States,CA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+29,Female,United States,OR,No,Don't know,Some of them,Yes,No,2,1,0,2,2,1,0
+38,Female,United States,NC,Not sure,Don't know,No,No,No,2,1,2,2,0,0,0
+26,Male,United States,CA,No,Don't know,No,No,No,1,1,0,2,0,0,0
+34,Male,Other,,No,No,No,Some of them,Maybe,1,0,0,0,0,2,2
+21,Male,United States,IL,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+31,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+37,Female,United States,CA,Yes,Yes,Yes,Some of them,No,2,1,1,1,1,2,0
+37,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+38,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+27,Female,United States,CA,Not sure,Don't know,Some of them,No,No,2,1,2,2,2,0,0
+39,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+33,Female,United States,AZ,Yes,Yes,Some of them,No,No,2,1,1,1,2,0,0
+27,Male,United Kingdom,,Not sure,Don't know,Some of them,No,Yes,1,2,2,2,2,0,1
+36,Female,United States,CA,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+28,Male,United Kingdom,,Not sure,No,Some of them,Yes,Maybe,1,2,2,0,2,1,2
+39,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+33,Male,United States,VA,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+32,Male,United Kingdom,,Not sure,Don't know,Some of them,Some of them,No,1,2,2,2,2,2,0
+28,Male,United Kingdom,,Not sure,Don't know,Some of them,Some of them,Yes,1,2,2,2,2,2,1
+37,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+39,Male,Other,,Yes,Yes,Some of them,Yes,No,1,0,1,1,2,1,0
+43,Male,United States,VA,No,Don't know,No,No,No,1,1,0,2,0,0,0
+32,Other,United Kingdom,,No,Yes,Yes,Some of them,Yes,0,2,0,1,1,2,1
+27,Female,United States,WA,Not sure,Yes,Some of them,Yes,No,2,1,2,1,2,1,0
+31,Female,United Kingdom,,No,No,Yes,Yes,Maybe,2,2,0,0,1,1,2
+43,Male,United Kingdom,,No,Don't know,Yes,Yes,Yes,1,2,0,2,1,1,1
+33,Male,United States,WI,Yes,No,Yes,Yes,Yes,1,1,1,0,1,1,1
+34,Male,United Kingdom,,Not sure,Don't know,Some of them,Yes,No,1,2,2,2,2,1,0
+33,Male,United States,CA,No,No,Yes,Yes,No,1,1,0,0,1,1,0
+25,Male,United States,CA,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+25,Male,United States,NE,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+32,Male,United Kingdom,,Yes,No,No,Yes,No,1,2,1,0,0,1,0
+25,Male,United States,CO,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+37,Male,Other,,No,Don't know,Yes,Yes,No,1,0,0,2,1,1,0
+39,Male,Other,,Yes,Yes,Some of them,Some of them,No,1,0,1,1,2,2,0
+29,Male,United Kingdom,,Not sure,No,Some of them,Yes,No,1,2,2,0,2,1,0
+33,Male,United States,NY,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+37,Female,United States,TX,Not sure,No,Some of them,Some of them,No,2,1,2,0,2,2,0
+35,Female,United States,LA,No,No,No,Some of them,No,2,1,0,0,0,2,0
+22,Female,United States,WA,Not sure,Don't know,Some of them,Some of them,No,2,1,2,2,2,2,0
+38,Male,United States,MI,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+32,Female,United States,CA,No,Don't know,Some of them,Yes,No,2,1,0,2,2,1,0
+28,Male,Other,,No,No,Some of them,Yes,Maybe,1,0,0,0,2,1,2
+27,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+35,Female,United States,CA,No,Don't know,Some of them,No,No,2,1,0,2,2,0,0
+29,Male,United States,MD,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+23,Male,United States,CA,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+39,Male,United States,CT,No,No,No,No,No,1,1,0,0,0,0,0
+30,Female,United States,CA,Yes,Yes,Some of them,No,No,2,1,1,1,2,0,0
+32,Male,United Kingdom,,Not sure,Don't know,Some of them,Some of them,Maybe,1,2,2,2,2,2,2
+28,Other,United States,CA,Yes,No,Some of them,Some of them,No,0,1,1,0,2,2,0
+40,Female,United States,WA,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+36,Female,United States,CA,No,Don't know,No,Some of them,No,2,1,0,2,0,2,0
+27,Male,United States,IN,Not sure,Don't know,Yes,Yes,Maybe,1,1,2,2,1,1,2
+41,Male,United States,TX,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+29,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+29,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+35,Male,United States,MO,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+28,Male,United States,NV,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+36,Female,United Kingdom,,Not sure,Don't know,Some of them,No,No,2,2,2,2,2,0,0
+39,Female,United States,WA,Not sure,Don't know,No,No,No,2,1,2,2,0,0,0
+39,Male,United States,FL,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+44,Male,United States,DC,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+26,Other,Other,,Not sure,Yes,Some of them,Some of them,Maybe,0,0,2,1,2,2,2
+35,Male,Other,,Yes,No,Some of them,Some of them,Maybe,1,0,1,0,2,2,2
+40,Female,United States,WA,Not sure,Don't know,Some of them,No,No,2,1,2,2,2,0,0
+35,Male,Other,,Yes,No,Some of them,Some of them,Maybe,1,0,1,0,2,2,2
+38,Male,United States,IL,Yes,No,No,No,No,1,1,1,0,0,0,0
+34,Male,United States,FL,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+43,Male,United States,MA,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+48,Female,United States,CA,No,No,No,Some of them,No,2,1,0,0,0,2,0
+20,Male,United States,WA,Not sure,Don't know,Some of them,Yes,Maybe,1,1,2,2,2,1,2
+40,Male,United States,MI,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+29,Female,United Kingdom,,No,No,Some of them,No,No,2,2,0,0,2,0,0
+35,Male,United States,MI,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+29,Male,United States,WI,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+40,Male,United States,CA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+29,Male,Other,,Yes,No,Some of them,Yes,No,1,0,1,0,2,1,0
+29,Female,United States,CA,Not sure,No,Yes,Yes,No,2,1,2,0,1,1,0
+34,Male,United States,TX,No,No,No,No,No,1,1,0,0,0,0,0
+44,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+24,Female,United States,NY,Yes,No,Some of them,Yes,No,2,1,1,0,2,1,0
+47,Female,United States,PA,No,Don't know,No,No,No,2,1,0,2,0,0,0
+43,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+36,Male,United States,PA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+43,Male,United States,GA,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+36,Male,United Kingdom,,No,No,Yes,Yes,No,1,2,0,0,1,1,0
+31,Female,United States,NY,Yes,No,Yes,Yes,Maybe,2,1,1,0,1,1,2
+35,Male,United States,CA,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+33,Male,United States,TN,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+37,Male,Other,,Not sure,Don't know,Some of them,No,No,1,0,2,2,2,0,0
+34,Male,United States,TN,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+36,Male,Other,,No,No,Yes,No,No,1,0,0,0,1,0,0
+40,Male,United States,TN,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+40,Male,United States,IL,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+42,Male,United States,WI,Yes,No,No,No,No,1,1,1,0,0,0,0
+23,Male,United States,KY,Yes,Don't know,No,Some of them,No,1,1,1,2,0,2,0
+21,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+26,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+31,Male,United States,DC,Not sure,No,Some of them,Some of them,No,1,1,2,0,2,2,0
+25,Male,United States,CA,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+51,Male,United States,MN,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+24,Male,United States,TN,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+33,Male,United States,MN,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+32,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+32,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+26,Male,United Kingdom,,Not sure,Don't know,Yes,Yes,Maybe,1,2,2,2,1,1,2
+23,Male,United States,IL,No,Don't know,Some of them,Some of them,Maybe,1,1,0,2,2,2,2
+33,Male,United States,TN,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+46,Male,United States,IL,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+34,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+35,Male,United States,DC,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+39,Male,United States,KS,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+32,Male,Other,,Yes,No,Some of them,Some of them,Maybe,1,0,1,0,2,2,2
+43,Male,Other,,No,Don't know,Some of them,Yes,No,1,0,0,2,2,1,0
+56,Male,United States,CA,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1,1,1
+32,Female,United Kingdom,,No,No,Some of them,Some of them,No,2,2,0,0,2,2,0
+41,Male,United Kingdom,,Yes,Yes,Some of them,Some of them,No,1,2,1,1,2,2,0
+39,Male,United States,TN,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+37,Male,United States,OK,Yes,No,No,No,No,1,1,1,0,0,0,0
+30,Male,United States,CA,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+31,Male,United States,TN,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+29,Male,United States,TX,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+23,Female,United Kingdom,,No,Yes,No,No,No,2,2,0,1,0,0,0
+31,Male,United States,CO,Yes,Don't know,No,No,No,1,1,1,2,0,0,0
+29,Male,United States,TN,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+30,Male,United States,GA,Yes,Don't know,Some of them,Yes,Maybe,1,1,1,2,2,1,2
+37,Male,United States,TN,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+36,Male,United States,VA,No,Don't know,Some of them,Yes,Yes,1,1,0,2,2,1,1
+35,Male,United States,TN,Yes,Don't know,Some of them,No,No,1,1,1,2,2,0,0
+41,Male,United States,DC,No,No,No,No,No,1,1,0,0,0,0,0
+31,Male,United Kingdom,,Not sure,No,Some of them,Yes,No,1,2,2,0,2,1,0
+38,Male,United Kingdom,,Yes,Yes,Some of them,Yes,No,1,2,1,1,2,1,0
+26,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+39,Male,United States,TN,No,Yes,Some of them,Yes,Maybe,1,1,0,1,2,1,2
+42,Male,United States,VA,Not sure,Yes,Some of them,No,No,1,1,2,1,2,0,0
+32,Male,United States,TN,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+29,Male,United States,TN,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+30,Male,United States,TN,No,Yes,Some of them,No,Maybe,1,1,0,1,2,0,2
+40,Male,United States,TN,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+51,Male,United States,TN,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+33,Male,United States,IN,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+34,Male,Other,,Not sure,No,Some of them,Some of them,No,1,0,2,0,2,2,0
+50,Male,United States,VA,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+24,Male,United States,TX,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+25,Male,United States,TX,No,No,No,No,No,1,1,0,0,0,0,0
+43,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+25,Female,United States,CA,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+24,Male,United Kingdom,,Yes,No,No,No,No,1,2,1,0,0,0,0
+51,Male,United States,CO,Yes,No,Some of them,Some of them,Maybe,1,1,1,0,2,2,2
+49,Male,United States,OR,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+30,Male,United States,OK,No,Yes,No,No,No,1,1,0,1,0,0,0
+25,Female,United States,OH,Yes,No,No,No,No,2,1,1,0,0,0,0
+36,Male,United States,TN,Yes,Don't know,No,No,No,1,1,1,2,0,0,0
+48,Male,United States,VA,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+48,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+53,Male,United States,OR,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+24,Female,United Kingdom,,No,No,Yes,Yes,No,2,2,0,0,1,1,0
+33,Male,United States,OR,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+25,Female,Other,,Yes,No,Some of them,Yes,No,2,0,1,0,2,1,0
+30,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+30,Male,United States,PA,Yes,No,Some of them,Some of them,Maybe,1,1,1,0,2,2,2
+34,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+31,Male,United States,SC,Yes,Yes,Some of them,Yes,Maybe,1,1,1,1,2,1,2
+22,Female,United States,CA,Not sure,Don't know,No,No,No,2,1,2,2,0,0,0
+28,Male,United States,TN,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+35,Male,United States,UT,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+28,Male,United States,CA,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+42,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+33,Male,United States,MO,No,Don't know,Yes,Yes,Yes,1,1,0,2,1,1,1
+29,Male,United States,CA,No,No,No,No,No,1,1,0,0,0,0,0
+43,Male,United States,DC,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+29,Male,United States,NY,Yes,Yes,Some of them,Some of them,Maybe,1,1,1,1,2,2,2
+25,Male,United States,TX,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+31,Male,United States,MO,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+35,Female,United States,GA,Not sure,Yes,Some of them,Yes,No,2,1,2,1,2,1,0
+34,Male,United States,TX,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+43,Male,United States,WA,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+38,Male,United States,WA,Not sure,No,No,Some of them,No,1,1,2,0,0,2,0
+26,Male,United States,WA,Not sure,Yes,Some of them,Some of them,Yes,1,1,2,1,2,2,1
+38,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+42,Male,United States,TX,No,Don't know,No,No,No,1,1,0,2,0,0,0
+33,Male,Other,,No,Don't know,Yes,Yes,Maybe,1,0,0,2,1,1,2
+32,Male,United States,WA,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+44,Male,United States,WA,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+28,Male,United States,WA,Yes,Don't know,Some of them,No,No,1,1,1,2,2,0,0
+40,Male,United States,WA,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+31,Female,United States,AZ,Yes,Don't know,Some of them,Yes,No,2,1,1,2,2,1,0
+32,Male,United States,WA,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+28,Male,United States,WA,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+39,Male,United States,AZ,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+45,Male,United States,NY,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+43,Male,United States,WA,Yes,Yes,Yes,Yes,Maybe,1,1,1,1,1,1,2
+35,Male,United States,CA,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+40,Male,United States,WA,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+34,Male,Other,,Yes,No,Yes,Yes,Maybe,1,0,1,0,1,1,2
+24,Male,United Kingdom,,Yes,No,Some of them,Yes,No,1,2,1,0,2,1,0
+61,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+36,Female,United States,WA,No,Don't know,Some of them,No,No,2,1,0,2,2,0,0
+38,Male,United States,TN,No,No,Some of them,Yes,Maybe,1,1,0,0,2,1,2
+33,Male,Other,,Not sure,No,Some of them,Yes,Yes,1,0,2,0,2,1,1
+30,Male,United States,WA,No,Don't know,No,No,No,1,1,0,2,0,0,0
+34,Male,Other,,Yes,Yes,Yes,Some of them,No,1,0,1,1,1,2,0
+26,Male,United States,CA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+33,Male,United Kingdom,,Not sure,Don't know,Some of them,Yes,Maybe,1,2,2,2,2,1,2
+32,Male,United Kingdom,,No,No,No,Yes,No,1,2,0,0,0,1,0
+25,Male,Other,,Yes,No,Some of them,Yes,Yes,1,0,1,0,2,1,1
+35,Male,Other,,No,No,Yes,No,No,1,0,0,0,1,0,0
+24,Male,United Kingdom,,Not sure,No,Some of them,Some of them,No,1,2,2,0,2,2,0
+55,Male,United Kingdom,,Yes,Yes,No,Some of them,No,1,2,1,1,0,2,0
+33,Male,United Kingdom,,Yes,No,Some of them,Some of them,No,1,2,1,0,2,2,0
+26,Female,United Kingdom,,No,No,Some of them,Yes,No,2,2,0,0,2,1,0
+25,Male,United Kingdom,,Not sure,Don't know,Yes,Yes,No,1,2,2,2,1,1,0
+45,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+33,Female,United Kingdom,,Yes,Yes,Some of them,Yes,No,2,2,1,1,2,1,0
+43,Male,United States,MI,Not sure,No,No,No,No,1,1,2,0,0,0,0
+30,Male,United Kingdom,,Yes,No,No,No,No,1,2,1,0,0,0,0
+40,Male,United States,IN,Not sure,Don't know,Yes,Yes,No,1,1,2,2,1,1,0
+49,Male,United States,GA,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+29,Male,Other,,Not sure,No,Some of them,Yes,Maybe,1,0,2,0,2,1,2
+26,Male,Other,,No,Don't know,Some of them,Some of them,Maybe,1,0,0,2,2,2,2
+38,Male,United States,WA,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+27,Male,Other,,Yes,No,No,Some of them,No,1,0,1,0,0,2,0
+26,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+28,Male,United Kingdom,,No,No,Yes,Yes,No,1,2,0,0,1,1,0
+40,Male,United States,ME,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+37,Female,Other,,Yes,No,Some of them,Some of them,Maybe,2,0,1,0,2,2,2
+34,Female,United Kingdom,,Yes,Yes,Some of them,No,No,2,2,1,1,2,0,0
+28,Male,United States,NY,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+27,Male,Other,,Not sure,No,Yes,Yes,Maybe,1,0,2,0,1,1,2
+29,Male,United Kingdom,,No,No,Yes,Yes,No,1,2,0,0,1,1,0
+39,Female,United Kingdom,,Not sure,No,No,No,No,2,2,2,0,0,0,0
+28,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+23,Male,United States,PA,Not sure,Yes,No,No,No,1,1,2,1,0,0,0
+38,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+19,Male,United Kingdom,,No,Yes,Yes,Yes,No,1,2,0,1,1,1,0
+30,Female,United States,IL,Yes,Don't know,Some of them,No,No,2,1,1,2,2,0,0
+28,Male,United Kingdom,,Yes,No,No,No,No,1,2,1,0,0,0,0
+20,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+35,Male,United Kingdom,,Not sure,Don't know,Some of them,Yes,No,1,2,2,2,2,1,0
+39,Male,United States,MN,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+31,Female,United States,TX,Not sure,Don't know,No,No,No,2,1,2,2,0,0,0
+32,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+27,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+25,Male,United States,PA,Yes,Don't know,Yes,Yes,Maybe,1,1,1,2,1,1,2
+42,Male,United States,IN,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+34,Male,United States,PA,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+26,Female,United States,OH,No,Don't know,Some of them,No,Maybe,2,1,0,2,2,0,2
+35,Male,United Kingdom,,Yes,No,Some of them,Some of them,No,1,2,1,0,2,2,0
+34,Male,United Kingdom,,No,Don't know,Yes,Yes,No,1,2,0,2,1,1,0
+38,Male,United States,PA,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1,1,1
+34,Male,United States,SD,No,No,Some of them,No,No,1,1,0,0,2,0,0
+39,Male,United States,IN,Yes,No,Some of them,Yes,Maybe,1,1,1,0,2,1,2
+44,Female,United States,CA,Not sure,No,No,No,No,2,1,2,0,0,0,0
+40,Male,United States,TN,Yes,Yes,No,Yes,No,1,1,1,1,0,1,0
+33,Female,United States,TX,Yes,Don't know,No,Some of them,No,2,1,1,2,0,2,0
+24,Female,United States,TN,Yes,Don't know,Some of them,Some of them,No,2,1,1,2,2,2,0
+38,Female,United States,OR,Not sure,Don't know,Some of them,Yes,No,2,1,2,2,2,1,0
+31,Male,United States,SD,Not sure,Yes,Some of them,Some of them,No,1,1,2,1,2,2,0
+23,Male,Other,,Not sure,No,Some of them,Yes,Maybe,1,0,2,0,2,1,2
+26,Female,United States,NY,Not sure,No,Yes,Yes,No,2,1,2,0,1,1,0
+46,Other,United States,CT,Yes,Yes,Some of them,Some of them,No,0,1,1,1,2,2,0
+30,Male,United States,CA,No,No,Some of them,No,No,1,1,0,0,2,0,0
+25,Male,United States,DC,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+19,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+30,Female,United States,GA,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+32,Male,United States,TN,Yes,Yes,Yes,Yes,No,1,1,1,1,1,1,0
+32,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+37,Male,United States,IN,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+42,Male,United States,CA,No,Don't know,Some of them,Some of them,No,1,1,0,2,2,2,0
+25,Female,United States,OR,Yes,Yes,Some of them,Yes,Maybe,2,1,1,1,2,1,2
+19,Male,United States,IN,Not sure,No,Some of them,Yes,Maybe,1,1,2,0,2,1,2
+40,Female,United States,GA,Yes,No,No,No,No,2,1,1,0,0,0,0
+34,Male,United States,IN,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+26,Male,United States,MN,Not sure,No,Some of them,Yes,No,1,1,2,0,2,1,0
+31,Male,United States,MN,Not sure,Don't know,Yes,Yes,Maybe,1,1,2,2,1,1,2
+40,Male,United States,NC,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+31,Female,United States,FL,No,No,No,No,No,2,1,0,0,0,0,0
+36,Male,United States,MN,No,Don't know,No,No,No,1,1,0,2,0,0,0
+35,Male,Other,,Yes,No,No,Some of them,No,1,0,1,0,0,2,0
+26,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+44,Male,United States,MO,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+34,Female,United States,CA,Not sure,No,Some of them,Yes,No,2,1,2,0,2,1,0
+35,Male,United States,OR,No,No,No,No,No,1,1,0,0,0,0,0
+28,Female,United States,OH,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+33,Male,United States,NY,No,Yes,Some of them,Yes,No,1,1,0,1,2,1,0
+40,Male,United States,WI,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+26,Male,United States,WA,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+29,Female,United Kingdom,,Yes,No,Some of them,No,No,2,2,1,0,2,0,0
+26,Female,Other,,Not sure,No,Some of them,No,No,2,0,2,0,2,0,0
+33,Male,Other,,Not sure,No,Some of them,Yes,No,1,0,2,0,2,1,0
+28,Male,Other,,No,No,Some of them,Some of them,No,1,0,0,0,2,2,0
+41,Male,United States,IL,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+39,Male,United Kingdom,,Yes,Yes,Yes,Yes,No,1,2,1,1,1,1,0
+26,Female,United States,WA,Yes,No,Some of them,Yes,No,2,1,1,0,2,1,0
+23,Female,United States,IL,No,No,No,Some of them,No,2,1,0,0,0,2,0
+35,Male,Other,,Not sure,No,Some of them,Some of them,No,1,0,2,0,2,2,0
+36,Male,United States,FL,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+42,Male,United States,TN,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+39,Male,United States,WA,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+27,Male,United States,CA,No,Don't know,Some of them,Yes,Maybe,1,1,0,2,2,1,2
+33,Male,United States,FL,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+31,Male,Other,,Not sure,Don't know,Some of them,No,No,1,0,2,2,2,0,0
+28,Female,United States,OR,Yes,Yes,Some of them,Some of them,No,2,1,1,1,2,2,0
+29,Female,United States,NJ,No,No,Some of them,Yes,Maybe,2,1,0,0,2,1,2
+27,Male,United States,CA,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+44,Male,United States,FL,No,No,No,No,No,1,1,0,0,0,0,0
+25,Male,United States,UT,No,No,Some of them,No,No,1,1,0,0,2,0,0
+24,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+25,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+34,Male,United States,NJ,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+26,Male,United States,PA,Yes,Don't know,No,Yes,No,1,1,1,2,0,1,0
+48,Male,United States,IN,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+34,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+39,Female,United States,OH,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+43,Male,United States,OH,Not sure,Yes,No,No,No,1,1,2,1,0,0,0
+41,Male,United States,IL,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+25,Male,United States,IN,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+31,Male,United States,CA,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+40,Male,United States,WA,Yes,Yes,No,No,No,1,1,1,1,0,0,0
+43,Male,United States,VA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+27,Female,United States,WA,Yes,Yes,Yes,Some of them,No,2,1,1,1,1,2,0
+37,Female,United States,NJ,Yes,Don't know,No,No,No,2,1,1,2,0,0,0
+32,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+25,Male,United States,UT,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+29,Male,Other,,Not sure,Yes,Yes,Yes,Maybe,1,0,2,1,1,1,2
+30,Female,United States,TN,No,No,No,No,No,2,1,0,0,0,0,0
+34,Female,Other,,No,Don't know,Some of them,Some of them,No,2,0,0,2,2,2,0
+32,Male,United Kingdom,,Yes,Yes,Some of them,Some of them,No,1,2,1,1,2,2,0
+37,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+41,Male,Other,,No,No,Yes,Yes,No,1,0,0,0,1,1,0
+38,Male,United States,IN,Not sure,Yes,Some of them,No,No,1,1,2,1,2,0,0
+32,Male,United States,IN,Yes,Don't know,Some of them,Yes,No,1,1,1,2,2,1,0
+28,Female,United States,CA,Yes,Don't know,Some of them,Some of them,No,2,1,1,2,2,2,0
+11,Male,United States,OH,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+43,Male,United States,TX,Yes,Don't know,Some of them,Some of them,No,1,1,1,2,2,2,0
+32,Male,United States,TN,Yes,No,Yes,Yes,No,1,1,1,0,1,1,0
+25,Male,United States,WA,Yes,Don't know,No,No,No,1,1,1,2,0,0,0
+37,Male,United States,UT,No,Yes,No,Yes,No,1,1,0,1,0,1,0
+36,Male,United States,AL,Yes,No,No,No,No,1,1,1,0,0,0,0
+24,Male,United States,WI,No,No,Yes,Yes,Maybe,1,1,0,0,1,1,2
+40,Male,United States,WA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+29,Male,United States,WI,Not sure,Don't know,Some of them,Yes,No,1,1,2,2,2,1,0
+43,Male,United States,NY,No,Don't know,Yes,Some of them,No,1,1,0,2,1,2,0
+29,Male,United States,NY,Not sure,Yes,Some of them,Yes,Maybe,1,1,2,1,2,1,2
+26,Male,United States,OH,Not sure,No,Some of them,No,No,1,1,2,0,2,0,0
+33,Female,Other,,Yes,No,No,No,No,2,0,1,0,0,0,0
+35,Female,United States,WA,No,No,Yes,Some of them,No,2,1,0,0,1,2,0
+45,Male,United States,CA,No,No,Some of them,No,No,1,1,0,0,2,0,0
+25,Male,United States,SC,Yes,Don't know,No,Some of them,No,1,1,1,2,0,2,0
+50,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+26,Male,Other,,No,Don't know,Yes,Yes,Maybe,1,0,0,2,1,1,2
+33,Female,United States,CA,Yes,Don't know,No,No,No,2,1,1,2,0,0,0
+30,Male,Other,,No,No,Some of them,Some of them,Maybe,1,0,0,0,2,2,2
+33,Male,Other,,Yes,Don't know,Some of them,Yes,Maybe,1,0,1,2,2,1,2
+29,Male,Other,,No,No,Yes,Some of them,No,1,0,0,0,1,2,0
+37,Male,Other,,Not sure,No,Some of them,No,Maybe,1,0,2,0,2,0,2
+25,Male,United States,MN,No,Don't know,Yes,Yes,Maybe,1,1,0,2,1,1,2
+40,Male,United States,WA,Not sure,Don't know,Some of them,Some of them,No,1,1,2,2,2,2,0
+24,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+40,Male,United Kingdom,,Not sure,Don't know,Yes,Some of them,No,1,2,2,2,1,2,0
+46,Male,United States,PA,Yes,Don't know,No,Some of them,No,1,1,1,2,0,2,0
+38,Male,United States,NY,Yes,Yes,No,Yes,No,1,1,1,1,0,1,0
+34,Male,United States,VT,Yes,No,No,No,No,1,1,1,0,0,0,0
+32,Male,United Kingdom,,Yes,Yes,Some of them,Yes,No,1,2,1,1,2,1,0
+44,Male,United Kingdom,,No,Yes,Some of them,Some of them,No,1,2,0,1,2,2,0
+33,Female,United Kingdom,,Not sure,Don't know,Some of them,Some of them,No,2,2,2,2,2,2,0
+45,Female,United States,MI,No,Don't know,Some of them,Some of them,No,2,1,0,2,2,2,0
+35,Male,United States,NY,Not sure,Don't know,No,No,No,1,1,2,2,0,0,0
+26,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+20,Female,United States,NY,Not sure,Don't know,Some of them,Some of them,Maybe,2,1,2,2,2,2,2
+-1,Other,United States,AL,Yes,Yes,Yes,Yes,Yes,0,1,1,1,1,1,1
+37,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+28,Male,United States,MI,No,No,No,No,No,1,1,0,0,0,0,0
+42,Female,United States,WA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+32,Male,United Kingdom,,No,No,No,No,No,1,2,0,0,0,0,0
+36,Female,United States,TN,Yes,No,Some of them,No,No,2,1,1,0,2,0,0
+27,Male,Other,,Yes,Yes,No,No,No,1,0,1,1,0,0,0
+27,Male,Other,,Yes,Yes,No,No,No,1,0,1,1,0,0,0
+27,Male,United Kingdom,,No,No,Yes,Yes,Maybe,1,2,0,0,1,1,2
+25,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+41,Male,United Kingdom,,No,No,Some of them,Some of them,Maybe,1,2,0,0,2,2,2
+23,Male,Other,,Not sure,No,No,No,No,1,0,2,0,0,0,0
+21,Male,United Kingdom,,No,Don't know,Some of them,No,No,1,2,0,2,2,0,0
+26,Male,Other,,Yes,No,Yes,Yes,Yes,1,0,1,0,1,1,1
+29,Male,Other,,Not sure,Don't know,No,No,No,1,0,2,2,0,0,0
+28,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+27,Female,United Kingdom,,Yes,No,No,No,No,2,2,1,0,0,0,0
+23,Male,Other,,Yes,Yes,Yes,Yes,No,1,0,1,1,1,1,0
+26,Female,United States,NY,No,No,No,No,No,2,1,0,0,0,0,0
+38,Male,United Kingdom,,Not sure,Don't know,Some of them,Yes,Maybe,1,2,2,2,2,1,2
+39,Male,United Kingdom,,No,No,Some of them,Yes,Maybe,1,2,0,0,2,1,2
+35,Male,United States,IN,Yes,Yes,No,Some of them,No,1,1,1,1,0,2,0
+32,Male,United States,NC,Not sure,Don't know,No,Some of them,No,1,1,2,2,0,2,0
+32,Male,United States,CA,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+26,Male,United Kingdom,,No,No,Some of them,No,No,1,2,0,0,2,0,0
+38,Male,Other,,Not sure,Don't know,Yes,Yes,No,1,0,2,2,1,1,0
+34,Female,United Kingdom,,Yes,Yes,Some of them,Yes,Maybe,2,2,1,1,2,1,2
+39,Male,United States,TN,Not sure,No,Some of them,Some of them,No,1,1,2,0,2,2,0
+32,Male,Other,,Not sure,No,Yes,Yes,Maybe,1,0,2,0,1,1,2
+37,Male,Other,,Not sure,Don't know,Some of them,Some of them,No,1,0,2,2,2,2,0
+31,Male,United Kingdom,,Not sure,Don't know,Some of them,Some of them,No,1,2,2,2,2,2,0
+30,Male,United States,MN,Yes,No,No,No,No,1,1,1,0,0,0,0
+51,Male,Other,,No,Don't know,No,No,No,1,0,0,2,0,0,0
+29,Male,United States,NC,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+31,Male,United Kingdom,,No,Yes,Some of them,No,No,1,2,0,1,2,0,0
+31,Male,Other,,Not sure,No,No,No,No,1,0,2,0,0,0,0
+26,Male,United States,TX,No,Don't know,Some of them,Some of them,Maybe,1,1,0,2,2,2,2
+46,Female,United States,CA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+32,Male,United States,CA,No,Don't know,Yes,Yes,No,1,1,0,2,1,1,0
+29,Male,United States,IL,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+34,Male,Other,,Not sure,No,Some of them,Some of them,No,1,0,2,0,2,2,0
+26,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+32,Female,United States,PA,Yes,Don't know,Some of them,No,No,2,1,1,2,2,0,0
+29,Male,United States,IL,Not sure,No,Some of them,Yes,Maybe,1,1,2,0,2,1,2
+30,Male,United States,IL,No,Yes,No,No,No,1,1,0,1,0,0,0
+40,Female,United States,MN,Yes,Yes,Yes,Yes,No,2,1,1,1,1,1,0
+23,Male,United Kingdom,,No,No,Yes,Yes,Yes,1,2,0,0,1,1,1
+20,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+38,Male,United States,NY,No,No,Some of them,Yes,No,1,1,0,0,2,1,0
+26,Female,United States,MI,No,No,No,No,No,2,1,0,0,0,0,0
+29,Male,United States,OH,No,Don't know,Some of them,Yes,No,1,1,0,2,2,1,0
+40,Male,Other,,Yes,No,Some of them,Some of them,Maybe,1,0,1,0,2,2,2
+32,Female,United States,NY,Yes,No,Some of them,No,No,2,1,1,0,2,0,0
+38,Male,United States,CA,Yes,Yes,Some of them,No,No,1,1,1,1,2,0,0
+72,Female,United States,IN,Not sure,Yes,Some of them,Yes,No,2,1,2,1,2,1,0
+35,Female,United States,IN,No,No,Some of them,Some of them,No,2,1,0,0,2,2,0
+28,Female,United States,VA,Yes,No,Some of them,Some of them,No,2,1,1,0,2,2,0
+27,Female,United States,OK,Not sure,Don't know,Some of them,Yes,No,2,1,2,2,2,1,0
+56,Female,United States,OR,Not sure,Don't know,No,No,No,2,1,2,2,0,0,0
+38,Male,United States,AL,No,No,Some of them,Some of them,No,1,1,0,0,2,2,0
+31,Female,Other,,Not sure,No,Some of them,Some of them,No,2,0,2,0,2,2,0
+40,Male,United States,AL,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+44,Male,United States,OH,Yes,Yes,Some of them,Some of them,No,1,1,1,1,2,2,0
+34,Male,Other,,Not sure,Yes,No,No,No,1,0,2,1,0,0,0
+37,Male,United Kingdom,,No,No,Some of them,Yes,No,1,2,0,0,2,1,0
+38,Male,Other,,Not sure,Don't know,Some of them,Yes,Yes,1,0,2,2,2,1,1
+27,Male,Other,,Not sure,No,Some of them,Yes,Yes,1,0,2,0,2,1,1
+34,Female,Other,,Yes,No,Some of them,Some of them,No,2,0,1,0,2,2,0
+35,Female,Other,,No,No,Some of them,No,No,2,0,0,0,2,0,0
+34,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+32,Male,United States,TX,Not sure,Don't know,Some of them,No,No,1,1,2,2,2,0,0
+25,Male,Other,,Not sure,Don't know,Some of them,Yes,No,1,0,2,2,2,1,0
+28,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+28,Female,United States,TX,No,No,Some of them,No,No,2,1,0,0,2,0,0
+31,Male,Other,,Yes,No,Yes,Yes,No,1,0,1,0,1,1,0
+24,Male,United Kingdom,,Not sure,No,Some of them,Yes,No,1,2,2,0,2,1,0
+34,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+32,Male,Other,,No,No,Some of them,Yes,No,1,0,0,0,2,1,0
+34,Male,United Kingdom,,Not sure,No,Some of them,Yes,Maybe,1,2,2,0,2,1,2
+23,Male,United States,TX,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+33,Male,Other,,Yes,No,Some of them,Yes,Maybe,1,0,1,0,2,1,2
+29,Male,Other,,Not sure,No,No,No,No,1,0,2,0,0,0,0
+24,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+45,Male,Other,,Not sure,No,Yes,Some of them,No,1,0,2,0,1,2,0
+34,Female,United Kingdom,,Yes,Yes,Some of them,Yes,No,2,2,1,1,2,1,0
+31,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+33,Male,United States,FL,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+28,Male,Other,,Not sure,No,Some of them,Some of them,No,1,0,2,0,2,2,0
+27,Male,United Kingdom,,Not sure,Yes,Some of them,Yes,No,1,2,2,1,2,1,0
+42,Male,Other,,Yes,No,Some of them,Some of them,No,1,0,1,0,2,2,0
+28,Male,Other,,Not sure,No,Some of them,Some of them,No,1,0,2,0,2,2,0
+38,Male,United States,TX,No,Yes,Yes,Yes,No,1,1,0,1,1,1,0
+46,Male,United States,CA,No,No,Some of them,No,No,1,1,0,0,2,0,0
+46,Male,United States,MD,Not sure,Don't know,Some of them,Yes,Yes,1,1,2,2,2,1,1
+41,Female,Other,,Yes,Yes,Yes,Yes,Yes,2,0,1,1,1,1,1
+23,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+24,Male,Other,,Yes,Yes,Some of them,No,No,1,0,1,1,2,0,0
+23,Female,Other,,Yes,No,Yes,Some of them,No,2,0,1,0,1,2,0
+39,Male,Other,,Not sure,Don't know,No,Some of them,No,1,0,2,2,0,2,0
+32,Female,Other,,Yes,Yes,Some of them,Some of them,No,2,0,1,1,2,2,0
+25,Male,United States,MN,Yes,No,Some of them,Some of them,No,1,1,1,0,2,2,0
+39,Male,Other,,No,No,No,No,No,1,0,0,0,0,0,0
+23,Female,United Kingdom,,Yes,Yes,Yes,Yes,Maybe,2,2,1,1,1,1,2
+24,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+25,Male,United Kingdom,,Yes,Yes,Yes,Yes,Yes,1,2,1,1,1,1,1
+23,Male,United Kingdom,,Yes,No,Yes,Yes,No,1,2,1,0,1,1,0
+24,Other,United Kingdom,,No,Don't know,No,No,No,0,2,0,2,0,0,0
+23,Male,Other,,Yes,Don't know,Yes,Some of them,No,1,0,1,2,1,2,0
+60,Male,United States,CA,No,Don't know,Some of them,No,No,1,1,0,2,2,0,0
+28,Male,Other,,Yes,No,No,No,No,1,0,1,0,0,0,0
+28,Male,United States,TN,Yes,Yes,Some of them,Yes,No,1,1,1,1,2,1,0
+30,Male,Other,,No,No,Yes,Yes,Maybe,1,0,0,0,1,1,2
+31,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+31,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+28,Male,Other,,No,Don't know,No,No,No,1,0,0,2,0,0,0
+43,Female,United States,FL,Yes,Yes,Some of them,Yes,No,2,1,1,1,2,1,0
+32,Female,United Kingdom,,No,Don't know,Some of them,Yes,No,2,2,0,2,2,1,0
+22,Male,Other,,Yes,Yes,No,Yes,No,1,0,1,1,0,1,0
+32,Male,United States,OR,Not sure,Yes,No,Some of them,Maybe,1,1,2,1,0,2,2
+36,Male,Other,,No,No,Some of them,No,No,1,0,0,0,2,0,0
+41,Female,United States,WA,No,Don't know,No,No,No,2,1,0,2,0,0,0
+30,Male,United States,CA,Yes,No,Yes,Yes,Maybe,1,1,1,0,1,1,2
+30,Male,United States,CA,Not sure,Yes,Some of them,Yes,Maybe,1,1,2,1,2,1,2
+36,Male,Other,,Yes,No,Some of them,Yes,No,1,0,1,0,2,1,0
+29,Male,United States,NC,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
+36,Male,United States,UT,No,Yes,Some of them,Some of them,No,1,1,0,1,2,2,0
+26,Male,United Kingdom,,No,No,Some of them,Some of them,No,1,2,0,0,2,2,0
+32,Male,United States,IL,Yes,No,Some of them,Yes,No,1,1,1,0,2,1,0
+34,Male,United States,CA,Yes,No,No,No,No,1,1,1,0,0,0,0
+46,Female,United States,NC,Yes,No,No,No,No,2,1,1,0,0,0,0
+25,Male,United States,IL,Yes,No,Some of them,No,No,1,1,1,0,2,0,0
